@@ -1,0 +1,19 @@
+body
+{
+position : relative;
+bottom : 85px;
+}
+
+div#branding
+{
+position : relative;
+top : 75px;
+}
+
+div#branding p
+{
+left : 83px;
+bottom : 188px;
+text-align : right;
+width : 350px;
+}
