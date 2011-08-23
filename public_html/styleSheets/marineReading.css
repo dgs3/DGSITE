@@ -1,0 +1,17 @@
+div#author
+{
+display : inline;
+text-decoration : underline;
+}
+
+ul#bib li, ul#links li
+{
+list-style-type : decimal;
+}
+
+div#back
+{
+text-align : center;
+font-size : 90%;
+padding : 20px;
+}

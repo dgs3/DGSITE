@@ -1,0 +1,32 @@
+ul#persNavlist
+{
+text-align : center;
+position : relative; top : 0px;
+list-style : none;
+}
+
+ul#persNavlist li
+{
+display : inline;
+list-display-type : none;
+}
+
+ul#persNavlist a
+{
+padding : 3px 3px;
+text-decoration : none;
+background-color : #888;
+}
+
+ul#persNavlist a:link, ul#persNavlist a:visited
+{
+text-decoration : none
+background-color : #888;
+color : #fff;
+}
+
+ul#persNavlist a:hover
+{
+color : #fff;
+background-color : #369;
+}

@@ -1,0 +1,17 @@
+ul#englishSnailForms li, ul#englishEForms li
+{
+list-style-type : none;
+}
+
+ul#spanishSnailForms li, ul#spanishEForms
+{
+list-style-type : none;
+}
+
+div#snailForms h3, div#eForms h3
+{
+font-size : 90%;
+text-decoration : none;
+padding-top : 10px;
+padding-bottom : 10px;
+}

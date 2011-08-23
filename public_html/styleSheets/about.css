@@ -1,0 +1,37 @@
+ul#address
+{
+list-style-type : none;
+}
+
+ul#aboutNavlist
+{
+text-align : center;
+position : relative; top : 0px;
+margin-left : 0;
+padding-left : 0;
+}
+
+ul#aboutNavlist li
+{
+display : inline;
+list-style-display : none;
+}
+
+ul#aboutNavlist a
+{
+padding : 3px 3px
+}
+
+ul#aboutNavlist a:link, ul#aboutNavlist a:visited
+{
+  color : #fff;
+  background-color : #888;
+  text-decoration : none;
+}
+
+ul#aboutNavlist a:hover
+{
+  color : #fff;
+  background-color : #369;
+  text-decoration : none;
+}

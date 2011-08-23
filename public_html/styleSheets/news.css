@@ -1,0 +1,4 @@
+ul#persNews li, ul#comNews li
+{
+list-style-type : none;
+}

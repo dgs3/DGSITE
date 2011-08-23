@@ -1,0 +1,151 @@
+body {
+background-color:#ccc;
+font-family : serif;
+}
+
+div#branding {
+width : 780px;
+height : 185px;
+text-align : center;
+margin: 0 auto;
+}
+
+div#branding a#logo
+{
+position : relative; right : 250px;
+}
+
+div#branding a#iiaba
+{
+position : relative; top : 0px; left : 195px;
+}
+
+div#branding h2 {
+position : relative; bottom : 170px; left : 40px;
+letter-spacing : .1em;
+font-variant : small-caps;
+
+}
+
+div#branding p {
+position : relative; bottom : 180px; left : 146px;
+width : 600px;
+letter-spacing : .2em;
+text-align : right;
+}
+
+ul#navlist{
+text-align : center;
+position : relative; top : 0px;
+margin-left : 0;
+padding-left: 0;
+}
+
+ul#navlist li
+{
+display : inline;
+list-style-type : none;
+}
+
+ul#navlist a
+{
+padding: 3px 3px;
+}
+
+ul#navlist a:link, ul#navlist a:visited
+{
+  color : #ccc;
+  background-color : #555;
+  text-decoration : none;
+}
+
+ul#navlist a:hover
+{
+  color : #ccc;
+  background-color : #222;
+  text-decoration : none;
+}
+
+div#content {
+position : relative; top : 20px;
+min-height : 400px;
+max-width : 780px;
+max-height : 400px;
+background-color : #eee;
+border : 2px solid #000;
+overflow-y : scroll;
+margin : 0 auto;
+}
+
+
+div#content h3 {
+font-weight : bold;
+font-size : 95%;
+margin : 10px
+}
+
+div#content h5
+{
+font-weight : bold;
+margin-left : 20px;
+}
+
+div#content p {
+text-indent : 20px;
+font-size : 95%;
+letter-spacing : .05em;
+margin-left : 20px;
+margin-right : 20px;
+}
+
+div#content ul
+{
+list-style-display : disc;
+}
+
+div#content li
+{
+font-size : 90%;
+}
+
+div#content a#facebook
+{
+position : relative;
+top : 10px;
+}
+
+div#siteinfo {
+text-align : center;
+position : relative; top : 45px; width : 100%; 
+font-size : 75%;
+}
+
+div#siteinfo p
+{
+position : relative; 
+}
+
+div#siteinfo a#home:link, div#siteinfo a#home:visited
+{
+text-decoration : none;
+color : #ccc;
+background-color : #555;
+}
+
+div#siteinfo a#home:hover
+{
+color : #ccc;
+background-color : #333;
+text-decoration : none;
+}
+
+div#siteinfo a#facebook
+{
+position : relative;
+top : 4px; left : 5px;
+}
+
+a img
+{
+border : 0px solid #ccc;}
+}
