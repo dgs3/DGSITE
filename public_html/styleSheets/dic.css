@@ -1,60 +1,20 @@
 div#content
 {
-min-height : 80px;
-max-height : 80px;
 overflow-y : overflow;
 }
 
-div#entries
+ul#entries
 {
-position : relative; right : 185px; bottom : 20px;
-max-height : 330px;
+list-style-type : decimal-leading-zero;
 }
 
-h5#termHead
+li a
 {
-position : relative; right : 135px; top : 45px;
-text-align : center;
-}
-
-
-ul#words
-{
-position : relative; left : 0px; top : 30px;
-width : 300px; height : 300px;
-background : #eee;
-border : 2px solid #000;
-overflow-y : scroll;
-padding-left : 5px;
-margin : 0 auto;
-}
-
-ul#words li
-{
-list-style-type : none;
 text-decoration : none;
-}
-
-ul#words li a
-{
 color : #000;
-text-decoration : none;
 }
 
-h5#defHead
+div#entries h3#letterSection
 {
-position : relative; left : 222px; bottom : 318px;
 text-align : center;
-}
-
-p#definition
-{
-position : relative; left : 350px; bottom : 333px;
-width : 300px;
-height : 290px;
-margin : 0 auto;
-background : #eee;
-border : 2px solid #000;
-padding : 5px;
-overflow-y : scroll;
 }

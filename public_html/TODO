@@ -1,0 +1,13 @@
+Search engine optimization.
+
+Add specific titles to each page
+	Use the <title> tag in the <head> tag
+	Use important keywords for the title
+	Make them concicse
+Add a description for each page
+	Use <meta name = 'description' content = 'PUT INFO HERE'>
+	Placed in the head tags
+	Can be a little lengthier than the title
+Add specific keywords for each 
+Make a Site Map
+Make a Custom 404 Page
