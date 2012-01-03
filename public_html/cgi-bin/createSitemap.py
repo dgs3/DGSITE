@@ -98,6 +98,6 @@ def nodeToXml(currentNode):
 
 nodeToXml(root)
 
-outFile = open('/Users/Dave/Documents/DGSITE/public_html/cgi-bin/Sitemap', 'w')
+outFile = open('Sitemap', 'w')
 outFile.write(doc.toprettyxml(indent = '	'))
 outFile.close()

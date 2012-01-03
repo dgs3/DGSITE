@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /TODO
+Disallow: /cgi-bin
+Disallow: /images
+Disallow: /styleSheets
+Allow: /
+Disallow: /javascript
+
